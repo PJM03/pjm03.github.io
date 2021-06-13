@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.github.pjm03.neis_api4j"},{"l":"com.github.pjm03.neis_api4j.adapter"},{"l":"com.github.pjm03.neis_api4j.argument"},{"l":"com.github.pjm03.neis_api4j.data"},{"l":"com.github.pjm03.neis_api4j.exception"}]
